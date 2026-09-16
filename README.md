@@ -41,14 +41,7 @@ calls** — every command is deterministic and demoable in a terminal.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools && npm install
-npm run geek:osint -- parse 203.0.113.7
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-osint-cli.git
